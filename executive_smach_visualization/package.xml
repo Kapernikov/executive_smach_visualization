@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package>
+<package format="3">
   <name>executive_smach_visualization</name>
   <version>2.0.2</version>
   <description>
@@ -14,7 +14,7 @@
   <author>Wim Meeussen</author>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <run_depend>smach_viewer</run_depend>
+  <exec_depend>smach_viewer</exec_depend>
 
   <export>
     <metapackage/>
