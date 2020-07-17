@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #
 # wxpython widgets for using Jose Fonseca's cairo graphviz visualizer
 # Copyright (c) 2010, Willow Garage, Inc.
